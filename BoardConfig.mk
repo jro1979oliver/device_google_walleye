@@ -36,6 +36,7 @@ BOARD_KERNEL_CMDLINE += androidboot.dtbo_idx=3
 
 # Partitions (listed in the file) to be wiped under recovery.
 TARGET_RECOVERY_WIPE := device/google/walleye/recovery.wipe
+TARGET_RECOVERY_FSTAB := device/google/walleye/fstab.hardware
 
 #BOARD_EXT4_SHARE_DUP_BLOCKS := true
 
