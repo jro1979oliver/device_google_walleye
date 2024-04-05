@@ -1,12 +1,13 @@
 [
    {
       "repository":  "device_google_wahoo",
-      "target_path": "device/google/wahoo"
+      "target_path": "device/google/wahoo",
+      "branch":      "fourteen"
    },
    {
       "repository":  "vendor_google_walleye",
       "target_path": "vendor/google/walleye",
-      "branch":      "thirteen",
+      "branch":      "fourteen",
       "remote":      "pixel-devices-blobs"
    }
 ]
